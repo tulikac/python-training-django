@@ -1,7 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-env
-db.sqlite3
 *.py[cod]
 *$py.class
 
@@ -129,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Django
+migrations
+db.sqlite3
